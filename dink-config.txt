@@ -161,6 +161,6 @@
   "baseRetryDelay": 2000,
   "imageWriteTimeout": 30,
 
-  "dynamicConfigUrl": "",
+  "dynamicConfigUrl": "https://raw.githubusercontent.com/soulbornrs/soulborn/refs/heads/main/dink-config.txt",
   "discordWebhook": "https://dink.pajlada.se/webhook/755fada06a54337a5b7579a07fbc8142251d9c85be42a00766b8160ebddf5e4b"
 }
